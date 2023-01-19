@@ -116,7 +116,7 @@ export default function App() {
       <br />
       <br />
       <br />
-      <input onChange={emojiInputHandler} />
+      <input placeholder="Copy and paste any of the emojis..." onChange={emojiInputHandler} />
       <br />
       <br />
       <br />
